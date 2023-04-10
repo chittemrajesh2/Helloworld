@@ -4,8 +4,3 @@ public class helloworld {
     }
 }
 
-101596471525
-
-9620647798-sekhar
-
-1750
